@@ -1,0 +1,15 @@
+.brand-swiper {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.swiper-slide {
+  text-align: center;
+  width: 150px !important;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: auto;
+}
+

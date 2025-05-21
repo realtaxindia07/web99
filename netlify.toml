@@ -1,0 +1,4 @@
+# netlify.toml
+[build]
+  functions = "netlify/functions"
+  publish = "dist"  # or "build" depending on your Vite config

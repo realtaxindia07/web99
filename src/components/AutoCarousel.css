@@ -1,0 +1,30 @@
+.auto-carousel {
+  overflow: hidden;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.carousel-container {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.carousel-container:hover {
+  scroll-behavior:smooth;
+}
+
+.carousel-track {
+  display: inline-block;
+  white-space: nowrap;
+  animation: none;
+}
+
+.carousel-slide {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.carousel-slide img {
+  width: 150px;
+  height: 75px;
+  object-fit: contain;
+}

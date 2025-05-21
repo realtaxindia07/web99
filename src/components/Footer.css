@@ -1,0 +1,13 @@
+.footer-wrapper{
+    padding: 100px 20px;
+    text-align: center;
+    background-color: rgb(59, 58, 58);
+    color: #fff;
+}
+.footer-wrapper a{
+    color: #fff;
+    padding: 20px;
+}
+.footer-wrapper div{
+    margin: 30px;
+}

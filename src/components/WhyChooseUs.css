@@ -1,0 +1,102 @@
+.why_choose_us_3 {
+  padding: 50px 20px;
+  background-color: #fff;
+
+}
+
+.mainHeading {
+  padding: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subPara {
+    text-align: center;
+      padding: 20px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.cardHeading {
+    padding: 20px;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cardPara {
+      padding: 20px;
+  font-size: 1rem;
+  color: #444;
+  text-align: center;
+}
+.leftSec{
+      background-color: #ffe5e5;
+}
+.rightSec{
+      background-color: #d3f3ff;
+}
+.cardSec {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.iconSec {
+  flex: 0 0 10px;
+  height: 10px;
+  background-color: #616161;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardInSec {
+  font-weight: bold;
+}
+
+.cardInPara {
+  font-size: 0.9rem;
+}
+
+.formBtnSec {
+  margin-top: 30px;
+}
+
+.btnSec {
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btnSec:hover {
+  background-color: #0056b3;
+}
+
+.btnIcon {
+  margin-left: 10px;
+}
+
+.botPara {
+  margin-top: 20px;
+  font-style: italic;
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
