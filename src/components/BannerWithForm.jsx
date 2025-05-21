@@ -68,6 +68,7 @@ const BannerWithForm = () => {
       pageurl: window.location.href,
       required: 'name,contact_no,service',
     };
+
   //   try {
   //     const response = await axios.post('http://localhost:5000', payload);
 
