@@ -4,22 +4,22 @@ import "./RecentProjectsSection.css";
 
 const projectData = [
   {
-    url: "#",
+    url: "https://smartbrickz.in/",
     img: "AutoCarousel/img1.webp",
     alt: "Ambrosh Website",
   },
   {
-    url: "#",
+    url: "https://digitalgrowthexperts.in/",
     img: "AutoCarousel/img2.webp",
     alt: "Clarkridge College Website",
   },
   {
-    url: "#",
+    url: "https://vishwanathayurved.com/",
     img: "AutoCarousel/img3.webp",
     alt: "Kelly Search Ecommerce",
   },
   {
-    url: "#",
+    url: "https://yamunaexpresswayplots.co.in/",
     img: "AutoCarousel/img4.webp",
     alt: "Unique Tohfaa Gift Store",
   },
