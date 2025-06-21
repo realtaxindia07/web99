@@ -207,12 +207,12 @@ const BannerWithForm = () => {
 
               <div className="form__submit">
                 <button type="submit" className="form__button">
-                  <img
+                  {/* <img
                     loading="lazy"
                     src="AutoCarousel/sewer.webp"
                     alt="Consultation Icon"
                     className="form__icon"
-                  />
+                  /> */}
                   <span>Submit</span>
                 </button>
               </div>
