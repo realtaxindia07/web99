@@ -1,6 +1,7 @@
 // RecentProjects.jsx
 import React, { useEffect, useRef } from "react";
 import "./RecentProjectsSection.css";
+import VoiceAssistant from "./VoiceAssistance";
 
 const projectData = [
   {
@@ -110,6 +111,8 @@ const RecentProjectsSection = () => {
             ))}
           </div>
         </div>
+        <VoiceAssistant/>
+        <p>or</p>
 <div style={{position:"relative"}}>
     {/* <!-- Elfsight Appointment Booking | Untitled Appointment Booking --> */}
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
